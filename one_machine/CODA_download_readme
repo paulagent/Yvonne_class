@@ -1,0 +1,6 @@
+CODA downloader:
+1. Supported on Linux and OSx systems ONLY.
+2. Requires a EUMETSAT EO-portal account: https://coda.eumetsat.int/#/home
+3. Can be used to download any Sentinel-3 marine data held on CODA.
+4. Can be adapted to download any Sentinel-3 data held on the CODA-reprocessing portal, as well as any Sentinel-2 and Sentinel-1 data held on the ESA Sentinel online portal.
+**For data from Apr25th,2016 to Nov29th,2017 use the CODA-reprocessing portal: https://codarep.eumetsat.int/#/home
