@@ -9,10 +9,10 @@ CMD_PATH='/home/maria/Documents/Fernanda/Codes_sentinel3/Batch_download_CODA'
 ROOT_CMD='dhusget.sh'
 
 #USERNAME: your CODA username
-USERNAME='spectralbc'
+USERNAME='**'
 
 #PASSWORD: your CODA password
-PASSWORD='spectraleumetsat'
+PASSWORD='**'
 
 # this is where you specify the path where you want data downloaded: e.g. /test/test. The actual storage
 # path will be /test/test/<SENSOR>/<YEAR>/<MONTH>/<DAY>/
