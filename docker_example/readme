@@ -47,6 +47,8 @@ drwxrwxr-x 2 1000 1000 4096 Feb 26 23:04 S3A_OL_1_EFR____20180902T183108_2018090
 drwxrwxr-x 2 1000 1000 4096 Feb 26 23:04 S3A_OL_1_EFR____20180902T183408_20180902T183708_20180904T001954_0179_035_184_2160_MAR_O_NT_002.SEN3
 drwxr-xr-x 2 1000 1000 4096 Feb 27 00:56 outdir1
 
+Last step execute the script
+cd to directory pol4.9 and type command "python3 test1.py"
 
 If you want to open the raw images and polymer output files, you can use ESA SNAP tool. You can download from below link and install on your computer 
 
