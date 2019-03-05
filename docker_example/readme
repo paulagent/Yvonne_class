@@ -9,7 +9,7 @@ Please refer Docker website for installation.
 
 https://docs.docker.com/install/
  
-Step 2 Build Polymer image using Dockerfile.
+Step 2 setup.
 
 Please download Dockerfile from GitHub and save it to a folder. For example “SENG370”
 
@@ -20,7 +20,7 @@ You can replace test1.py with your script if you want. Just remember to change D
 Step 3 build Docker polymer images.
 
 Open a terminal and cd to SENG370 folder. Run below command.
-The command is : “ sudo  docker build -t Polymer .” 
+The command is : “ sudo  docker build -t polymer .” 
 
 Please note the -t tells docker engine the name of your container. You can change to any string. 
 Also, the dot is mandatory.
